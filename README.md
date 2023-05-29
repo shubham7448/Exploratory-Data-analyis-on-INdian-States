@@ -1,1 +1,1 @@
-# Exploratory-Data-analyis-on-INdian-States
+# Exploratory-Data-analyis-on-Indian-States
